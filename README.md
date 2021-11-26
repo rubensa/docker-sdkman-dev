@@ -1,3 +1,6 @@
+| ⚠ **WARNING**: This image is obsolete as [rubensa/ubuntu-tini-dev](https://github.com/rubensa/docker-ubuntu-tini-dev) now includes [SDKMan](https://sdkman.io/). |
+| --- |
+
 # SDKMan image for local development
 
 This image provides a SDKMan environment useful for local development purposes.
